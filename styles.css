@@ -49,6 +49,8 @@ a{
 .reliable{
     font-size: 18px;
     color: #F9FAF8;
+    margin-bottom: 10px;
+    margin-top: 0px;
 }
 
 .climb{
@@ -62,6 +64,8 @@ a{
     gap: 72px;
     padding: 96px;
 }
+
+
 
 button{
     background-color: #3882F6;
@@ -115,5 +119,60 @@ body {
 
   .reviews{
     display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #E5E7EB;
+    font-size: 36px;
+    font-style:italic ;
+    color:#1F2937;
+  }
+
+  .quote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 165px;
+  }
+
+  .Sign{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+  }
+
+  .rock{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    color:white;
+    border-radius: 12px;
+    padding: 45px;
+    gap: 50px;
+  }
+
+  .main{
+    font-size: 24px;
+    font-weight: bold;
+
+  }
+  
+  .sec{
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .last{
+    font-weight: bold;
+    border-color: white;
+  }
+
+  .footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 25px;
   }
