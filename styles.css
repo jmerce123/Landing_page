@@ -71,3 +71,49 @@ button{
 
 }
 
+body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  img {
+    height: 100px;
+  }
+  
+  .title {
+    font-size: 36px;
+    font-weight: 900;
+  }
+   .jtree{
+    height: 200px;
+
+   }
+ 
+  
+  
+  body {
+    text-align: center;
+  }
+  
+  .title {
+    margin-bottom: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 35px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+    padding-bottom: 90px;
+  }
+  
+  .info {
+    max-width: 200px;
+  }
+
+  .reviews{
+    display: flex;
+    background-color: #E5E7EB;
+  }
